@@ -14,4 +14,4 @@
 
 ##### Epicodus Week 6, Day 3
 
-[Link to DB config image](http://imgur.com/D9MT6j1)
+[Link to DB config image](http://imgur.com/pPTDWAN)
